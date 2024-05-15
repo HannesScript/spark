@@ -1,0 +1,13 @@
+{
+  "name": "spark",
+  "version": "1.0.0",
+  "description": "A simple tool to create the boilerplate code for projects",
+  "main": "main.js",
+  "bin": "main.js",
+  "keywords": [],
+  "author": "HannesScript",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
